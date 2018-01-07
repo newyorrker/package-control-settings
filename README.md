@@ -7,7 +7,7 @@
 * <a href="/User/Package%20Control.sublime-settings">**Installed Packages**</a>
 * <a href="/User/Preferences.sublime-settings">**User settings**</a>
 
-Setup: Cloning repo to the packages folder
+### Setup: Cloning repo to the packages folder
 
 _https://github.com/newyorrker/sublime-stack-settings.git_  
   
