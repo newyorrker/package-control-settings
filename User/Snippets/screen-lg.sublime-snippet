@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+@include lg {
+	${1:}
+}
+]]></content>
+<tabTrigger>inlg</tabTrigger>
+<description>Make media query block for selector</description>
+<scope>source.scss, meta.property-list.scss, meta.property-list.scss, source.css</scope>
+</snippet>

@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Colorsublime",
+		"CSS Extended Completions",
+		"Emmet",
+		"Gist",
+		"JavaScript Completions",
+		"jQuery",
+		"Material Theme",
+		"Nunjucks Syntax",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsl",
+		"SublimeLinter-php"
+	]
+}

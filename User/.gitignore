@@ -1,0 +1,5 @@
+*
+!.gitignore
+!Snippets/
+!Package Control.sublime-settings
+!Preferences.sublime-settings

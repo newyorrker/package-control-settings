@@ -1,0 +1,14 @@
+{
+	"atomic_save": true,
+	"color_scheme": "Packages/Colorsublime - Themes/Another_Kolor_Dark.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"margin": 0,
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

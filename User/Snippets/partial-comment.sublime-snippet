@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+//--------------------------------------------------------------
+// ${1:Partial Description}
+//--------------------------------------------------------------
+]]></content>
+<tabTrigger>part</tabTrigger>
+<description>Коментарий разделитель</description>
+<scope>text.nunjucks, comment.line.nunjucks, source.scss, comment.line.scss, text.html, source.css, source.js</scope>
+</snippet>
