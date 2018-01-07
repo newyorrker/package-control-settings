@@ -2,4 +2,4 @@
 
 ** included setting of sublime, sublime packages and color cheme, snippets dir **
 
-**Snipptes** -- User/Snipptes/*
+<a href="/User/Snippets">**Snipptes**</a> -- User/Snipptes/*
