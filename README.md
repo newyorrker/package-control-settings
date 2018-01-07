@@ -1,7 +1,6 @@
 # Sublime stack settings
-<<<<<<< HEAD
 
-** Includes **
+**Includes**
 
 * <a href="/User/Snippets">**Snipptes**</a>
 * <a href="/Colorsublime%20-%20Themes/Another_Kolor_Dark.tmTheme">**ColorTheme**</a>
