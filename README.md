@@ -6,3 +6,8 @@
 * <a href="/Colorsublime%20-%20Themes/Another_Kolor_Dark.tmTheme">**ColorTheme**</a>
 * <a href="/User/Package%20Control.sublime-settings">**Installed Packages**</a>
 * <a href="/User/Preferences.sublime-settings">**User settings**</a>
+
+Setup: Cloning repo to the packages folder
+
+_https://github.com/newyorrker/sublime-stack-settings.git_
+to the _C:\Users\newyorker\AppData\Roaming\Sublime Text 3\Packages_
