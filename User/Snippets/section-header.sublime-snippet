@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+<div class="section-header section-header--{{isPage}}">
+	<h3>${1:Content}</h3>
+</div>
+]]></content>
+<tabTrigger>seche</tabTrigger>
+<description>Make a section header</description>
+<scope>text.html.nunjucks, meta.tag.block.any.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

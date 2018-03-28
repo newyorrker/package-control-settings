@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+position: absolute;
+left: 50%;
+transform: translateX(-50%);
+]]></content>
+<tabTrigger>abhor</tabTrigger>
+<description>Absolute element horzontal align</description>
+<scope>source.css, source.scss, meta.property-list.scss</scope>
+</snippet>

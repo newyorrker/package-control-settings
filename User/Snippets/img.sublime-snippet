@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+background-image: url(../images/${1:img-name}.${2:ext});
+]]></content>
+<tabTrigger>img</tabTrigger>
+<description>make a rule for background image</description>
+<scope>source.scss, meta.property-list.scss</scope>
+</snippet>

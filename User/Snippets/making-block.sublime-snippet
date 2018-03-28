@@ -1,0 +1,22 @@
+<snippet>
+<content><![CDATA[
+// ---- ${1:block} ----
+	.${1:block} {
+		${2:}
+		//media stack
+		@include rmax(468) {
+			//
+		}
+		@include md {
+			//
+		}
+		@include lg {
+			//
+		}
+	}
+// ---- end ----
+]]></content>
+<tabTrigger>ok</tabTrigger>
+<description>make a css block</description>
+<scope>source.scss, sorurce.sass</scope>
+</snippet>

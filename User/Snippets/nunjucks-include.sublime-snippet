@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+<!-- including ${1:filename} -->
+{% include "partials/_${1:filename}.html" %}
+<!-- including ${1:filename} -->
+]]></content>
+<tabTrigger>incfle</tabTrigger>
+<description>Return's string with nunjucks file include </description>
+<scope>text.html.nunjucks</scope>
+</snippet>

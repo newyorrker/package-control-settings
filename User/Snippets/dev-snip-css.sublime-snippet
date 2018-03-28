@@ -1,17 +1,15 @@
-
-
-<snippet> 	<!-- Pseudo Element -->
+<snippet>
 	<content><![CDATA[
 &:after {
 	display: block;
 	content: "";
-	width: ${2}px;
-	height: ${2}px;
+	width: ${1:0}px;
+	height: ${1:0}px;
 }
-&:after {
+&:after { // Pseudo position
 	position: absolute;
-	top: 0px;
-	left: 0px;
+	top: ${2:0}px;
+	left: ${2:0}px;
 }
 ]]></content>
 

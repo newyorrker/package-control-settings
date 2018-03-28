@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+{% if ${1:expresion} %} <!-- ${1:expresion} -->
+	${2}
+{% endif %}
+]]></content>
+<tabTrigger>if</tabTrigger>
+<description>make if snippet for Nunjucks</description>
+<scope>text.html.nunjucks</scope>
+</snippet>
