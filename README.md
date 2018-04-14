@@ -9,6 +9,12 @@
 
 ### Setup: Cloning repo to the packages folder
 
+* git init .
+git remote add -t \* -f origin <repository-url>
+git checkout master
+
+or
+
 **Git clone:**  _https://github.com/newyorrker/sublime-stack-settings.git_  
   
 **Path to the packages folder:**  _C:\Users\newyorker\AppData\Roaming\Sublime Text 3\Packages_
