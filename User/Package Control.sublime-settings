@@ -6,11 +6,13 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"All Autocomplete",
 		"BracketHighlighter",
 		"Colorsublime",
 		"CSS Extended Completions",
 		"Emmet",
 		"Gist",
+		"GitGutter",
 		"JavaScript Completions",
 		"jQuery",
 		"KeyboardSelection",
