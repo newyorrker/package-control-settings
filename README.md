@@ -11,7 +11,7 @@
 
 ```zsh
 git init .
-git remote add -t \* -f origin <repository-url>
+git remote add -t \* -f origin git@github.com:newyorrker/sublime-stack-settings.git
 git checkout master
 ```
 
