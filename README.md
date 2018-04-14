@@ -9,10 +9,9 @@
 
 ### Setup: Cloning repo to the packages folder
 
-`git init .
-git remote add -t \* -f origin <repository-url>
-git checkout master
-`
+`git init .`
+`git remote add -t \* -f origin <repository-url>`
+`git checkout master`
 
 or
 
