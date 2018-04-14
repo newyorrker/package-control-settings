@@ -12,7 +12,8 @@
 ```zsh
 git init .
 git remote add -t \* -f origin <repository-url>
-git checkout master```
+git checkout master
+```
 
 or
 
