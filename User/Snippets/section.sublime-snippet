@@ -13,5 +13,5 @@
 ]]></content>
 <tabTrigger>section</tabTrigger>
 <description>make a section</description>
-<scope>text.html.nunjucks, meta.tag.other.html, punctuation.definition.tag.begin.html</scope>
+<scope>text.html</scope>
 </snippet>
