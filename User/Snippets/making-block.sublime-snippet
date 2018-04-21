@@ -13,8 +13,6 @@
 		@include lg {
 			//
 		}
-	}
-// ---- end ----
 ]]></content>
 <tabTrigger>ok</tabTrigger>
 <description>make a css block</description>

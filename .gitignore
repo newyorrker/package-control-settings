@@ -1,6 +1,6 @@
 *
-!Colorsublime - Themes/
-!User/*
-!.gitignore
 !README.md
-!*.sublime-snippet
+*/.gitignore
+*.sublime-snippet
+User/Snippets/making-block.sublime-snippet
+*.sublime-snippet

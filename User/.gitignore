@@ -1,7 +1,6 @@
 *
 !.gitignore
-!Snippets/
 !Package Control.sublime-settings
 !Preferences.sublime-settings
-!Gist.sublime-settingss
+!Gist.sublime-settings
 !Side Bar.sublime-settings

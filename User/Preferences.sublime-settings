@@ -2,7 +2,11 @@
 	"atomic_save": true,
 	"color_scheme": "Packages/Colorsublime - Themes/Another_Kolor_Dark.tmTheme",
 	"font_face": "Consolas",
-	"font_options": ["gray_antialias", "thin"],
+	"font_options":
+	[
+		"gray_antialias",
+		"thin"
+	],
 	"font_size": 20,
 	"highlight_line": true,
 	"ignored_packages":
@@ -11,6 +15,8 @@
 	],
 	"line_numbers": true,
 	"margin": 0,
+	"open_files_in_new_window": false,
+	"scroll_past_end": true,
 	"tab_size": 2,
 	"theme": "Material-Theme.sublime-theme",
 	"trim_trailing_white_space_on_save": true
