@@ -3,3 +3,5 @@
 !/User
 !/Colorsublime - Themes
 *.DS_Store
+*.last-run
+User/Package Control.last-run
