@@ -1,17 +1,17 @@
 <snippet>
 <content><![CDATA[
-<section class="${1:section-name}">
-	<div class="section-header">
-		<h3>${3:header-content}</h3>
-	</div>
-	<div class="section-content">
-		<div class="${1:section-name}__${4:section-part}">
-			items..
+
+<!-- ${1:section}  -->
+<section class="${1:section}">
+	<div class="${1:section}__header">
+		<div class="section-header">
+			<h3>${2:header-content}</h3>
 		</div>
 	</div>
 </section>
 ]]></content>
-<tabTrigger>section</tabTrigger>
-<description>make a section</description>
-<scope>text.html</scope>
+
+<tabTrigger>ok</tabTrigger>
+<description>Make a section</description>
+<scope>text.html.Nunjucks</scope>
 </snippet>
