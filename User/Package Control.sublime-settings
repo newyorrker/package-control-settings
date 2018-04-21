@@ -6,7 +6,6 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"All Autocomplete",
 		"BracketHighlighter",
 		"Colorsublime",
 		"CSS Extended Completions",
@@ -19,6 +18,7 @@
 		"Material Theme",
 		"Nunjucks Syntax",
 		"Package Control",
+		"Sass",
 		"SCSS",
 		"SideBarEnhancements",
 		"SnippetMaker",
