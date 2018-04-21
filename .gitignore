@@ -5,3 +5,5 @@
 *.DS_Store
 *.last-run
 User/Package Control.last-run
+User/nunjucks-extended/
+User/Gist.sublime-settings
