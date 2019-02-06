@@ -6,18 +6,22 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Babel",
+		"Babel Snippets",
 		"BracketHighlighter",
 		"Colorsublime",
 		"CSS Extended Completions",
 		"Emmet",
+		"ESLint",
 		"Gist",
 		"GitGutter",
+		"Golang Build",
 		"JavaScript Completions",
 		"jQuery",
 		"KeyboardSelection",
 		"Material Theme",
-		"Nunjucks Syntax",
 		"Package Control",
+		"Razor",
 		"Sass",
 		"SCSS",
 		"SideBarEnhancements",
@@ -26,6 +30,7 @@
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-jsl",
-		"SublimeLinter-php"
+		"SublimeLinter-php",
+		"Vuejs Complete Package"
 	]
 }

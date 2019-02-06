@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+constructor(props) {
+  super(props);
+  this.handleFunction = this.handleFunction.bind(this);
+  this.state = {${1:state}: '${2:value}'}
+}
+]]></content>
+<tabTrigger>con</tabTrigger>
+<description>React - making a class constructor</description>
+<scope>source.js, meta.class.js, meta.class-method.js, string.unquoted.js, entity.name.function.js</scope>
+</snippet>

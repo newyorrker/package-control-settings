@@ -1,0 +1,19 @@
+
+** 2018-11-12 22:51:47.450221 **:
+agent#007: GoSublime: Traceback (most recent call last):
+  File "/Users/timskiy/Library/Application Support/Sublime Text 3/Packages/GoSublime/gosubl/margo_agent.py", line 283, in _handle_recv
+    self._handle_recv_ipc(v)
+  File "/Users/timskiy/Library/Application Support/Sublime Text 3/Packages/GoSublime/gosubl/margo_agent.py", line 268, in _handle_recv_ipc
+    self._notify_ready()
+  File "/Users/timskiy/Library/Application Support/Sublime Text 3/Packages/GoSublime/gosubl/margo_agent.py", line 265, in _notify_ready
+    self.mg.agent_ready(self)
+  File "/Users/timskiy/Library/Application Support/Sublime Text 3/Packages/GoSublime/gosubl/margo.py", line 238, in agent_ready
+    self.on_activated(gs.active_view())
+  File "/Users/timskiy/Library/Application Support/Sublime Text 3/Packages/GoSublime/gosubl/margo.py", line 341, in on_activated
+    self.queue(view=view, actions=[actions.ViewActivated])
+  File "/Users/timskiy/Library/Application Support/Sublime Text 3/Packages/GoSublime/gosubl/margo.py", line 253, in queue
+    self.agent.queue(actions=actions, view=view)
+  File "/Users/timskiy/Library/Application Support/Sublime Text 3/Packages/GoSublime/gosubl/margo_agent.py", line 203, in queue
+    p = (act, view.id())
+AttributeError: 'NoneType' object has no attribute 'id'
+--------------------------------

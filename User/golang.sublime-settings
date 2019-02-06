@@ -1,0 +1,5 @@
+{
+    "PATH": "/usr/local/go/bin",
+    "GOPATH": "/usr/local/go",
+    "auto_complete_triggers": [{"selector": "source.go - string - comment - constant.numeric", "characters": "."}]
+}

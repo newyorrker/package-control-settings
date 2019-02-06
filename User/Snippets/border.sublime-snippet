@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+border: ${1:1}px ${2:color} solid;
+]]></content>
+<tabTrigger>brd</tabTrigger>
+<description>make a simple border</description>
+<scope>source.scss, meta.property-list.scss, meta.property-name.scss, support.type.property-name.scss</scope>
+</snippet>

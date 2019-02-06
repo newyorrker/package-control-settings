@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+this.props.data.map(function () {
+		return (
+			<div key={index}>
+				${1:}
+			</div>
+		)
+	})
+]]></content>
+<tabTrigger>reaprop</tabTrigger>
+<description>React - this.propsdata.map()</description>
+<scope>source.js, meta.group.braces.round.js, meta.group.braces.curly.js, meta.group.braces.round.js, meta.group.braces.curly.js, meta.group.braces.round.js</scope>
+</snippet>

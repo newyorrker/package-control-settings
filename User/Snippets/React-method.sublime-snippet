@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+${1:methodName}: function (${2:e}) {
+	${3:this.some(content)}
+},
+]]></content>
+<tabTrigger>meth</tabTrigger>
+<description>React - create simple method function</description>
+<scope>source.js, meta.group.braces.round.js, meta.group.braces.curly.js, meta.function.json.js, string.unquoted.js, entity.name.function.js</scope>
+</snippet>

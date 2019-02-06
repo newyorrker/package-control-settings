@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<a href="#callback" class="btn open-popup-link">${1:Text of button}</a>
+]]></content>
+<tabTrigger>pop</tabTrigger>
+<description>Make a open popup link</description>
+<scope>text.html.basic, meta.tag.inline.a.html, punctuation.definition.tag.end.html</scope>
+</snippet>

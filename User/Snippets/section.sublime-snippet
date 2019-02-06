@@ -1,17 +1,20 @@
 <snippet>
 <content><![CDATA[
 
-<!-- ${1:section}  -->
-<section class="${1:section}">
-	<div class="${1:section}__header">
+<!-- ${1:section-name} -->
+<section class="${1:section-name} page__s-${2:}">
+	<div class="${1:section-name}__header">
 		<div class="section-header">
-			<h3>${2:header-content}</h3>
+			<h3>${3:header-content}</h3>
 		</div>
 	</div>
+	<div class="${1:section-name}__content">
+    ${3:}content of ${1:section-name} section
+  </div>
 </section>
 ]]></content>
 
 <tabTrigger>ok</tabTrigger>
 <description>Make a section</description>
-<scope>text.html.Nunjucks</scope>
+<scope>text.html</scope>
 </snippet>

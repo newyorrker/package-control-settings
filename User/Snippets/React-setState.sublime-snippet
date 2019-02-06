@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+setState({
+	${1:stateVariable}: ${2:value}
+});
+]]></content>
+<tabTrigger>setst</tabTrigger>
+<description>React - setting state variable</description>
+<scope>source.js, meta.group.braces.round.js, meta.group.braces.curly.js, meta.group.braces.curly.js, meta.function-call.method.with-arguments.js, variable.function.js</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+gulp.task('${1:task-name}', function() {
+    return gulp.src(config.src.${2:dir} + '${3:file}')
+    .pipe(gulp.dest(config.dest.${4:dir} + ${5:'file'}));
+});
+]]></content>
+<tabTrigger>task</tabTrigger>
+<description>make a gulp task</description>
+<scope>source.js, variable.other.object.js</scope>
+</snippet>

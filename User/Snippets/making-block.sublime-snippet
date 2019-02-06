@@ -2,6 +2,7 @@
 <content><![CDATA[
 // ---- ${1:block} ----
 	.${1:block} {
+		//
 		${2:}
 		//media stack
 		@include rmax(468) {
@@ -13,6 +14,7 @@
 		@include lg {
 			//
 		}
+	}
 ]]></content>
 <tabTrigger>ok</tabTrigger>
 <description>make a css block</description>

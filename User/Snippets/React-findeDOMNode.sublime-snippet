@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+ReactDOM.findDOMNode(this.refs.${1:node})
+]]></content>
+<tabTrigger>reafind</tabTrigger>
+<description>React - findDOMNode</description>
+<scope>source.jsx, source.js, meta.function-call.method.js, meta.group.js, meta.object-literal.js, meta.block.js, variable.other.object.js</scope>
+</snippet>
